@@ -78,3 +78,4 @@ Measures used in visualization are:
 
 ## Reports:
 Data visualization for the dataset was done using Microsoft Power BI Desktop.
+- Provided dashboards with clear insights into player performances, aiding decision-makers in selecting the best team for the T20 World Cup based on solid data analysis.
